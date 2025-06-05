@@ -1,0 +1,13 @@
+.first{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.second{
+    text-align: center;
+    text-decoration: line-through;
+}
+.third{
+    text-align: right;
+    text-decoration: solid;
+}

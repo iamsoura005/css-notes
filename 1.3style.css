@@ -1,0 +1,15 @@
+h1 {
+    color:rgb(5, 224, 96);
+}
+
+p{
+    color: chartreuse;
+}
+
+button{
+    color: darkblue;
+    background-color: aqua;
+}
+body{
+    background-color: dimgray;
+}
